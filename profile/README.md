@@ -72,4 +72,4 @@ const mision = "Somos una agencia creativa y equipo de desarrolladores de softwa
 
 }
 
-<<strong>> ¡Juntos, impulsamos el cambio, creamos software innovador y construimos un futuro mejor para todos! <</strong>>
+<<important>> ¡Juntos, impulsamos el cambio, creamos software innovador y construimos un futuro mejor para todos! <<important>>
