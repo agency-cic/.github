@@ -1,21 +1,23 @@
-## Hi World👋
+## Hello World👋
 
 🌍 We are Agency CIC => main(){
 
-  Somos una agencia creativa y equipo de desarrolladores de software comprometidos con la creación de soluciones innovadoras que impactan positivamente y transforman el mundo.
+const mision = "Somos una agencia creativa y equipo de desarrolladores de software comprometidos con la creación de soluciones innovadoras que impactan positivamente y transforman el mundo."
 
 }
 
 
 💡 Ideas disruptivas module1(){
 
-  Nos apasiona generar ideas disruptivas que desafíen los límites y cambien paradigmas en diversas industrias.
+  let i = "Nos apasiona generar ideas disruptivas que desafíen los límites y cambien paradigmas en diversas industrias."
 
 }
 
 
 💻 Desarrollo de software module2(){
-  Somos expertos en el desarrollo de software de alta calidad, utilizando tecnologías de vanguardia y enfoques creativos para ofrecer soluciones únicas.
+
+  let i = "Somos expertos en el desarrollo de software de alta calidad, utilizando tecnologías de vanguardia y enfoques creativos para ofrecer soluciones únicas."
+
 }
 
 🚀 Innovación constante {
