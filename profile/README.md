@@ -67,7 +67,9 @@ const mision = "Somos una agencia creativa y equipo de desarrolladores de softwa
 }
 
 📈 Crecimiento y éxito conjunto {
+
   let i = "Buscamos el crecimiento y el éxito conjunto, colaborando con nuestros clientes para alcanzar sus metas y superar sus expectativas.";
+
 }
 
-<strong> ¡Juntos, impulsamos el cambio, creamos software innovador y construimos un futuro mejor para todos! <strong>
+<<strong>> ¡Juntos, impulsamos el cambio, creamos software innovador y construimos un futuro mejor para todos! <</strong>>
